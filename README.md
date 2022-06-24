@@ -29,14 +29,14 @@
 <br/>
 <p align="left">
   <a href="https://github.com/shahira-sadat/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shahira-sadat&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahira-sadat&theme=gruvbox&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=shahira-sadat&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=shahira-sadat&theme=algolia&hide_border=true" />
   </a>
 </p>
 <br>
 
 
-[![Shahira's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahira-sadat&custom_title=shahira%27s%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/shahira-sadat/)
+[![Shahira's Activity Graph](https://activity-graph.herokuapp.com/graph?username=shahira-sadat&custom_title=shahira%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/shahira-sadat/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
