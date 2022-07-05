@@ -1,7 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hi there👋, I'm Shahira</h1>
+<h3 align="center">A computer scientist and a software developer from Afghanistan🇦🇫</h3>
+
+<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy working on UI/UX and prototyping</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+
+<div align="center">
+	<img src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b76112be03f92de5e356ca9c83066f76d54710feb3b75&rid=giphy.gif&ct=g">
+</div>
 <br>
 
 ### 🛠 &nbsp;Tech Stack
@@ -24,6 +31,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahira-sadat&label=Profile%20views&color=1c1c1c&style=flat" alt="Shahira" /> </p>
 
+---
+
+- 🎓 I have a **bachelor's degree** in Computer Science (software engineering). Obtained from the Kabul University, Afghanistan.
+
+- 👩‍💻 I’m currently studying and training to become a **Full-Stack Software Developer** in a remote, collaborative and multicultural environment at [Microverse.](https://github.com/microverseinc)
+
+- 🌱 I’m currently learning Javascript.
+
+- 💻 All **my projects** are available [here](https://github.com/shahira-sadat)
+
+- 👯 I’m looking to collaborate on Web Projects
+
+- 📫 Reach me on: 📧 shahira.sadat1@gmail.com
+
+- ✨ Interests: coding, reading books, cooking, art, Designing.
+
+- 👩 Pronouns: she/her.
+
+
 ### My Statistics
 
 <br/>
@@ -44,11 +70,22 @@
 <a href="https://www.linkedin.com/in/shahira-sadat-49b402199" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahira" height="30" width="40" /></a>
 </p>
 
+<h2 align="left">Skills</h2>
+<p align="left">
+<div>
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" title="Git" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />
+	<img height="50" src="https://github.com/coherencez/tech-logos/blob/master/sass.png" alt="Sass" title="Sass" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" />
+	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" />
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/webpack.svg" alt="Webpack" title="Webpack" />
+</div>
+</p>
 
-Here are some ideas to get you started:
+<h2 align="left">Certificates & Licenses</h2>
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636521" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636521" width="80"></a> 
+</p>
 
-- 🔭 I’m currently on my Microverse learning journey
-- 💻 All of my projects are available at [https://github.com/shahira-sadat](https://github.com/shahira-sadat)
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Web Projects
-- 📫 How to reach me: shahira.sadat1@gmail.com
