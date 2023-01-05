@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there👋, I'm Shahira</h1>
 <h3 align="center">A computer scientist and a software developer from Afghanistan🇦🇫</h3>
 
-<p align="center">Currently, I am a remote student at Microverse training to become a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy working on UI/UX and prototyping</p>
+<p align="center">Currently, I am a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy working on UI/UX and prototyping</p>
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
