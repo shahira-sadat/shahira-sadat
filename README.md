@@ -129,5 +129,6 @@
 <h2 align="left">Certificates & Licenses</h2>
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636521" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636521" width="80"></a> 
+ &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/57854199" target="blank"><img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/53636521" width="80"></a> 
 </p>
 
