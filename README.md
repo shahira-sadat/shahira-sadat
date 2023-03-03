@@ -1,5 +1,4 @@
 <h1 align="center"> Hi there👋, I'm Shahira</h1>
-
 <h3 align="center">A computer scientist and a software developer from Afghanistan🇦🇫</h3>
 
 <p align="center">Currently, I am a Full-Stack Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I enjoy working on UI/UX and prototyping</p>
